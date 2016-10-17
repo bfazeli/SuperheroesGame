@@ -1,0 +1,2 @@
+# SuperheroesGame
+This app uses multiple Fragments, JSON, Activities, SplashScreen for initial display, SoundPlayers for added interest, Tween animations for enhanced user exp, and intents to allow the user to learn about the traits of each Superhero (The superheroes are students in the mobile app dev class). It has 3 different quiz settings: 1) Guess Superhero Name 2) Guess Superpower and 3) Guess The One Thing
